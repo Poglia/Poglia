@@ -1,4 +1,21 @@
-### Hi there 👋
+##  it's an honor to welcome you to my modest profile!
+
+
+### About me
+
+
+**As developer:**
+
+
+**As general learner:**
+
+<hr>
+
+
+
+
+* I'm not the best person, i'm not the best developer but, **step by step**, one day who knows...
+
 
 <!--
 **Poglia/Poglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
