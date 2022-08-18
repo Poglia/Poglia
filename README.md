@@ -1,4 +1,4 @@
-##  it's an honor to welcome you to my modest profile!
+##  Preciso arrumar meu gitHub eu sei, to trabalhando nisso 
 
 
 ### About me
