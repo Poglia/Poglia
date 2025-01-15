@@ -1,27 +1,58 @@
-## Hi i'm Pedro 
-<div align="center">
-  <a href="https://github.com/Poglia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poglia&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poglia&layout=compact&langs_count=7&theme=dark"/>
+# 👋 Olá, eu sou o Pedro!  
+
+🚀 **Desenvolvedor Fullstack** | 💡 **Apaixonado por tecnologia e inovação**  
+🎓 **Estudante de Ciência da Computação** no IFSUL | 💼 **Bolsista na Embrapa Trigo**  
+💻 **Freelancer**: Transformando ideias em soluções digitais.  
+
+Sempre buscando evoluir e criar projetos incríveis que aliem desempenho e criatividade.  
+
+---
+
+## 🛠️ **Minhas ferramentas de trabalho**  
+<div style="display: inline_block">
+  <img align="center" alt="Poglia-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Poglia-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Poglia-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Poglia-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Poglia-Tailwind" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Poglia-Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Poglia-PHP"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Poglia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Poglia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Poglia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Poglia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Poglia-Postgres"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
+
+---
+
+## 🔍 **O que estou explorando atualmente**
+- **Nest.js e Fastify**: Para criar APIs escaláveis e eficientes.
+- **IndexedDB com Dexie.js**: Para manipulação de dados localmente no navegador.
+- **Testes de performance**: Usando ferramentas como K6 e JMeter.
+
+---
+
+## 📚 **Projetos em destaque**
+- **[All Blacks Project](https://github.com/Poglia/allblacksproject)**  
+  Uma aplicação voltada para fãs de rugby, com informações detalhadas sobre o time All Blacks.
+
+- **[Landing Page](https://landing-page-next-react-tailwind.vercel.app/)**  
+  Uma landing page moderna e responsiva, desenvolvida em React, Next.js e Tailwind. Projetada com foco em design limpo e carregamento rápido.
+
+---
+
+## 🌟 **Um pouco mais sobre mim**
+- 🎯 Estou sempre em busca de novos conhecimentos e desafios no universo da tecnologia.  
+- 💪 Gosto de treinar, correr, qualquer coisa ao ar livre.  
+- 🎮 Entusiasta de jogos e amante de séries, especialmente ficção científica, comédia e series medievais.  
+- ✨ Acredito que boas ideias transformam projetos em experiências únicas.  
+
+---
+
+## 🌍 **Onde você pode me encontrar**
+<div>
+  <a href="https://www.linkedin.com/in/pedropoglia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pedropoglia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedrofpoglia@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-  
-  ##
- 
-<div> 
-<!--   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-    <a href="https://twitter.com/pedrofpoglia" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<!--  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-<!--   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/pedropoglia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://instagram.com/pedropoglia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/pedrofpoglia" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
+
+---
+
+> **"A tecnologia é minha ferramenta, mas minha criatividade é meu diferencial!"**
+
+---
