@@ -55,6 +55,6 @@ Sempre buscando evoluir e criar projetos incríveis que aliem desempenho e criat
 
 ---
 
-> **"A tecnologia é minha ferramenta, mas minha criatividade é meu diferencial!"**
+> **"A tecnologia é apenas a minha ferramenta, mas a criatividade é meu diferencial"**
 
 ---
