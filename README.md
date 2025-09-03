@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Pedro!  
+# 👋 Olá, seja bem vindo ao meu portifólio!  
 
 🚀 **Desenvolvedor Fullstack** | 💡 **Apaixonado por tecnologia e inovação**  
 🎓 **Estudante de Ciência da Computação** no IFSUL | 💼 **Bolsista na Embrapa Trigo**  
